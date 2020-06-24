@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard is render correctly 1`] = `
+<div
+  id="dashboard"
+>
+  <infocards-stub
+    cards="[object Object],[object Object],[object Object],[object Object]"
+  />
+   
+  <chart-stub
+    chart="[object Object]"
+    chartid="doughnut-chart"
+    cssclasses=""
+    height="400"
+    plugins=""
+    width="400"
+  />
+   
+  <statuscards-stub
+    cards="[object Object],[object Object]"
+  />
+</div>
+`;
